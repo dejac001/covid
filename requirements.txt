@@ -17,7 +17,7 @@ geopandas==0.7.0
 geoplot==0.4.0
 geopy==1.22.0
 idna==2.9
-joblib==0.15.1
+joblib==1.2.0
 kiwisolver==1.2.0
 mapclassify==2.2.0
 matplotlib==3.2.1
